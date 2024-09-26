@@ -63,14 +63,21 @@ To run this project, you will need the following Python packages:
    - Experiment with different queries to see various recommendations.
 
 ## Example Query
-Sample query (could be the bio of a user): `"I am a Data Scientist who loves cute dogs"`
+Recommending based on the user's bio: `"I am a Data Scientist who loves cute dogs"`
 
 The system will recommend video titles like:
-- "What is this cute puppy dog doing?#Shorts"
-- "I played weird virtual pet games"
-- "Naming My 1-Month-Old Rescue Puppies!"
-- "I asked an AI for video ideas, and they were actually good"
+- `"What is this cute puppy dog doing?#Shorts"`
+- `"I played weird virtual pet games"`
+- `"Naming My 1-Month-Old Rescue Puppies!"`
+- `"I asked an AI for video ideas, and they were actually good"`
 
+Recommending based on the user's watch history, previously watched videos: 
+1. `"We Put Our ENTIRE Team in ONE Game of Fortnite"`
+2. `"The guys from fortnite"`
+The system will recommend video titles like:
+- `"Surprising FaZe Jarvis With His Dream Fortnite Girls"`
+- `"25 minutes of Rainbow Six Siege VIBING"`
+- `"MY FORTNITE SKIN REVEAL"`
 
 ## Future Improvements
 - Add more features to the recommender system, such as filtering by video categories or view counts.
