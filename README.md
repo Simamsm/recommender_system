@@ -74,7 +74,7 @@ The system will recommend video titles like:
 Recommending based on the user's watch history, previously watched videos: 
 1. `"We Put Our ENTIRE Team in ONE Game of Fortnite"`
 2. `"The guys from fortnite"`
-The system will recommend video titles like:
+<br>The system will recommend video titles like:
 - `"Surprising FaZe Jarvis With His Dream Fortnite Girls"`
 - `"25 minutes of Rainbow Six Siege VIBING"`
 - `"MY FORTNITE SKIN REVEAL"`
