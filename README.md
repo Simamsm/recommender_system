@@ -32,7 +32,7 @@ Sample data looks like this:
 | 0          | aHzKJOC19SU | Milan 0-3 Inter | Inter Go Four Points Clear... | 2021-02-21T17:07:45Z  | UCBJeMCIeLQos7wacox4hmLQ | Serie A             | 17         | 21.22.02      | Ronaldo, Serie A, Dybala, highlights       | 3074832    | 64812  | 1759     | 4797          | https://i.ytimg.com/vi/aHzKJOC19SU/default.jpg  | False              | False            | Inter breezed past Milan in the derby to go four points clear... |
 
 ## Project Structure
-- **recommender_system.ipynb**: The Python script implementing the recommender system.
+- **recommender_system_flag_embedding.ipynb**: The Python script implementing the recommender system.
 - **GB_videos_data.csv**: The dataset containing the YouTube video metadata.
 
 ## Requirements
@@ -57,7 +57,7 @@ To run this project, you will need the following Python packages:
 ## How to Use
 
 1. **Run the Script**:
-   - Execute the Python script (`recommender_system.ipynb`) and provide a query, such as "funny videos of pets". The system will return the top relevant video titles.
+   - Execute the Python script (`recommender_system_flag_embedding.ipynb`) and provide a query, such as "funny videos of pets". The system will return the top relevant video titles.
 
 2. **Testing**:
    - Experiment with different queries to see various recommendations.
