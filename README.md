@@ -63,12 +63,14 @@ To run this project, you will need the following Python packages:
    - Experiment with different queries to see various recommendations.
 
 ## Example Query
-Sample query (could be the bio of a user): `"I am an individual  who loves pets"`
+Sample query (could be the bio of a user): `"I am a Data Scientist who loves cute dogs"`
 
 The system will recommend video titles like:
-- "Hilarious Pet Reactions Compilation"
-- "Cute Animals Doing Funny Things"
-- "Pets Who Love Being the Center of Attention"
+- "What is this cute puppy dog doing?#Shorts"
+- "I played weird virtual pet games"
+- "Naming My 1-Month-Old Rescue Puppies!"
+- "I asked an AI for video ideas, and they were actually good"
+
 
 ## Future Improvements
 - Add more features to the recommender system, such as filtering by video categories or view counts.
